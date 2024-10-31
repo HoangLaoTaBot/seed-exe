@@ -1,0 +1,30 @@
+{
+    "AUTO_SPIN" : true,
+    "AUTO_BIRD" : true,
+    "AUTO_TASK" : true,
+
+    "AUTO_MERGE_PIECE_EGG" : true,
+    "VALUE_MIN_MERGE_PIECE_EGG" : 36,
+
+    "AUTO_TRANSFER_EGG" : true,
+    "VALUE_ID_TRANSFER_EGG" : 933814601,
+
+    "AUTO_JOIN_GUILD" : true,
+    "VALUE_ID_GUILD" : "6c8bd846-0582-4832-8531-4d5a785a84da",
+
+    "AUTO_BOOST" : true,
+    "VALUE_UPGRADE_MINING_SPEED" : 6,
+    "VALUE_UPGRADE_STORAGE_SIZE" : 2,
+
+    "AUTO_GET_NEW_QUERY_ID": false,
+    "AUTO_WRITE_ERROR": true,
+    "AUTO_SEND_ERROR_TELEGRAM": false,
+    "AUTO_STOP_PROCESS": false,
+    "IS_CHECK_QUERY_ID": false,
+    "NUMBER_TRY_REQUEST": 3,
+    "THREAD": 10,
+    "IS_SLEEP": 3600,
+    "BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_NAME_GAME": "Seed"
+}
