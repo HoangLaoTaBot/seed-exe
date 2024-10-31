@@ -23,4 +23,4 @@
 | IS_SLEEP | 27500                                | Số thời gian đợi chạy vòng lặp mới ( giây )                           |
 | BOT_TOKEN |                                      | Token của bot telegram channel                                        |
 | BOT_CHANNEL_ID |                                      | ID của telegram channel                                               |
-| BOT_NAME_GAME | Pokey Quest                          | Tên game                                                              |
+| BOT_NAME_GAME | SEED                                  | Tên game                                                              |
