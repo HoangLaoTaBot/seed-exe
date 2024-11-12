@@ -16,10 +16,8 @@
     "VALUE_UPGRADE_MINING_SPEED" : 6,
     "VALUE_UPGRADE_STORAGE_SIZE" : 2,
 
-    "AUTO_GET_NEW_QUERY_ID": false,
     "AUTO_WRITE_ERROR": true,
     "AUTO_SEND_ERROR_TELEGRAM": false,
-    "AUTO_SEND_TELEGRAM_LOGOUT": false,
     "AUTO_STOP_PROCESS": false,
     "IS_CHECK_QUERY_ID": false,
     "USER_AGENT": "",
@@ -28,7 +26,5 @@
     "IS_SLEEP": 60,
     "BOT_TOKEN": "",
     "BOT_CHANNEL_ID": "",
-    "BOT_TOKEN_LOGOUT": "",
-    "BOT_CHANNEL_ID_LOGOUT": "",
     "BOT_NAME_GAME": "Seed"
 }
